@@ -1,4 +1,8 @@
-## electron Helow-worlld Example
+# electron Helow-worlld Example
+
+
+## Project 생성 절차<br> 
+====================================<br>
 
 1. mkdir electronHellowWorld & cd electronHellowWorld
 
@@ -49,7 +53,13 @@ ipcMain.handle("exit-program", () => {
 6. preload.js 파일 작성
 7. renderer.js 파일 작성
 8. main.js  파일 작성
-9. npm run start 프로그램 실행
+
+
+## Clone후 실행 방법
+==================
+1. npm install
+2. npm run start 
+
 
 
 
