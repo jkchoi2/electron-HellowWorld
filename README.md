@@ -1,6 +1,5 @@
-#===================================
 #electron Helow-worlld Example
-#===================================
+
 1. mkdir electronHellowWorld & cd electronHellowWorld
 
 2. npm init -y                     --> package.json만들어짐
