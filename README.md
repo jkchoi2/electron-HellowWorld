@@ -23,3 +23,6 @@
 5. main.js  작성
 
 6. npm run start
+
+<img src="./screenShot.png">
+   
