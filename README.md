@@ -1,5 +1,5 @@
 ===================================
-// electron Helow-worlld Example
+electron Helow-worlld Example
 ===================================
 1. mkdir electronHellowWorld & cd electronHellowWorld
 
